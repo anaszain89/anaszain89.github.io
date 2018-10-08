@@ -5,6 +5,7 @@ title: Welcome to Anas' webpage
 ---
 
 <div class="container">
+  <div align="center">
   <div class="row">
     <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
       <div class="col-md-2 vcenter idxHdr">
@@ -25,6 +26,7 @@ title: Welcome to Anas' webpage
         <a href="http://rochester.edu/">University of Rochester</a>
       </div>
       <br/>
+    </div>
   </div>
   </div>
   </div>
