@@ -1,5 +1,6 @@
 ---
 layout: default
+
 title: Welcome to Anas' webpage
 ---
 
@@ -24,13 +25,9 @@ title: Welcome to Anas' webpage
         <a href="http://rochester.edu/">University of Rochester</a>
       </div>
       <br/>
-      <div style="padding: 0.3em; display: inline-block; border-radius: 4px; font-size: 1.2em;">
-        <a href="data/cv.pdf" target='_blank' style='text-decoration: none;'>
-          <i class="fas fa-file-download fa-3x"></i>
-        </a>
-      </div>
   </div>
-
+  </div>
+  </div>
 
 **PhD candidate with comprehensive understanding of medical imaging, image / time-series analysis and machine learning**
 
@@ -43,7 +40,6 @@ Additionally, I have worked on short-term projects on developing novel methods f
 Prior to my graduate studies at University of Rochester, I had worked at Philips Electronics India Ltd. for 3 years as a Field Service Engineer for their Imaging modalities with specialization in MRI systems. 
 
 My experiences thus far have always given me the opportunity to work in highly interdisciplinary environments with close collaborations with engineers, mathematicians, neurologists, radiologists as well as skilled technicians. Hence, I have a good disposition towards teamwork, inter-personal communication and service provider-client relationships. 
-
 
 ## <i class="fas fa-link"></i> Education
 
@@ -72,3 +68,4 @@ My experiences thus far have always given me the opportunity to work in highly i
       Manipal University, Karnataka, India
     </td>
   </tr>
+  <br/>
