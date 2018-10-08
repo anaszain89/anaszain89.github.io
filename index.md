@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welcome to Anas' webpage
 ---
 
 <div class="container">
