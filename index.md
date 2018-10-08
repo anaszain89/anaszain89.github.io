@@ -2,6 +2,39 @@
 layout: default
 ---
 
+![Anas](/images/photo_anas.jpg)
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
+      <div style='font-size: 2em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Anas Zainul Abidin</div>
+      <div style='font-size: 1.2em;'>
+        Ph.D. Candidate
+      </div>
+      <div style='font-size: 1.2em'>
+        <a href="http://www.hajim.rochester.edu/bme/">Biomedical Engineering</a>
+      </div>
+      <div style='font-size: 1.2em'>
+        <a href="http://rochester.edu/">University of Rochester</a>
+      </div>
+      <br/>
+
+      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
+        <a href="data/cv.pdf" target='_blank' style='text-decoration: none;'>
+          <i class="fas fa-file-download fa-3x"></i></i>
+        </a>
+      </div>
+
+    <div class="col-md-2 vcenter idxHdr">
+      <a href="/images/photo_anas.jpg">
+        <img src="/images/photo_anas.jpg"
+             style="border-radius: 20px; margin: 10px; max-width: none;"
+             alt="Me."/>
+      </a>
+    </div>
+  </div>
+
+
 **PhD candidate with comprehensive understanding of medical imaging, image / time-series analysis and machine learning**
 
 # Brief Summary
