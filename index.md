@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Anas](/images/photo_Anas.jpg)
-
 <div class="container">
   <div class="row">
     <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
@@ -20,13 +18,13 @@ layout: default
       <br/>
       <div style="padding: 0.3em; display: inline-block; border-radius: 4px; font-size: 1.2em;">
         <a href="data/cv.pdf" target='_blank' style='text-decoration: none;'>
-          <i class="fas fa-file-download fa-3x"></i></i>
+          <i class="fas fa-file-download fa-3x"></i>
         </a>
       </div>
     <div class="col-md-2 vcenter idxHdr">
       <a href="/images/photo_Anas.jpg">
         <img src="/images/photo_Anas.jpg"
-             style="border-radius: 20px; margin: 10px; max-width: none;"
+             style="border-radius: 20px; margin: 10px; max-width: 30%;"
              alt="Me."/>
       </a>
     </div>
