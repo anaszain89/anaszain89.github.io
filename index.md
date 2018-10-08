@@ -5,6 +5,13 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
+      <div class="col-md-2 vcenter idxHdr">
+      <a href="/images/photo_Anas.jpg">
+        <img src="/images/photo_Anas.jpg"
+             style="border-radius: 20px; margin: 10px; max-width: 30%;"
+             alt="Me."/>
+      </a>
+    </div>
       <div style='font-size: 2em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Anas Zainul Abidin</div>
       <div style='font-size: 1.2em;'>
         Ph.D. Candidate
@@ -21,13 +28,6 @@ layout: default
           <i class="fas fa-file-download fa-3x"></i>
         </a>
       </div>
-    <div class="col-md-2 vcenter idxHdr">
-      <a href="/images/photo_Anas.jpg">
-        <img src="/images/photo_Anas.jpg"
-             style="border-radius: 20px; margin: 10px; max-width: 30%;"
-             alt="Me."/>
-      </a>
-    </div>
   </div>
 
 
@@ -66,8 +66,7 @@ My experiences thus far have always given me the opportunity to work in highly i
   <tr>
     <td class="col-md-3">Aug 2006 - May 2010</td>
     <td>
-        <strong>B.E. in Biomedical Engineering</strong>
-          
+        <strong>B.E. in Biomedical Engineering</strong> 
         <br>
       Manipal University, Karnataka, India
     </td>
