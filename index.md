@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Anas](/images/photo_anas.jpg)
+![Anas](/images/photo_Anas.jpg)
 
 <div class="container">
   <div class="row">
@@ -18,16 +18,14 @@ layout: default
         <a href="http://rochester.edu/">University of Rochester</a>
       </div>
       <br/>
-
-      <div style="padding: 0.3em; background-color: #4582ec; display: inline-block; border-radius: 4px; font-size: 1.2em;">
+      <div style="padding: 0.3em; display: inline-block; border-radius: 4px; font-size: 1.2em;">
         <a href="data/cv.pdf" target='_blank' style='text-decoration: none;'>
           <i class="fas fa-file-download fa-3x"></i></i>
         </a>
       </div>
-
     <div class="col-md-2 vcenter idxHdr">
-      <a href="/images/photo_anas.jpg">
-        <img src="/images/photo_anas.jpg"
+      <a href="/images/photo_Anas.jpg">
+        <img src="/images/photo_Anas.jpg"
              style="border-radius: 20px; margin: 10px; max-width: none;"
              alt="Me."/>
       </a>
