@@ -91,7 +91,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="image rounded"><img src="images/PP2.png" width="180" alt="" style="border:none;" /></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)">
-<h4>MolGAN: Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage </h4>
+<h4>Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage </h4>
 <p>Characterization of Phase Contrast CT images using features extracted from CNNs and also "hand-crafted" features </p>
 <p><span style="text-decoration: underline;">Abidin AZ</span>, Deng B, DSouza AM, Nagarajan MB, Coan P, Wismüller A. (Computers in biology and medicine. 2018;95:24-33.) [<a href='https://www.sciencedirect.com/science/article/pii/S0010482518300167'>Link</a>].</p>
 </div>
