@@ -74,13 +74,12 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="image rounded"><img src="images/PP1.png" width="180" alt="" style="border:none;" /></div>
 
 ## Selected Publications <i class="fas fa-link"></i>
-<div class="container 75%">
-<hr />
+
+<div class="container 75%"><hr />
 <div class="row 200%">
-<div class="9u$ 8u$(large) 12u$(medium)">
-<span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span>
+<div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Proposing novel imaging derived biomarkers for disease</span></em></p>
-<p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, DSouza AM, Nagarajan MB, Qiu X, Schifitto G, Wismüller A. (NeuroImage: Clinical. 2018;17:768-77.) [<a href="https://www.sciencedirect.com/science/article/pii/S2213158217303054">Link</a>]</span></p>
+<p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, DSouza AM, Nagarajan MB, Qiu X, Schifitto G, Wism&uuml;ller A. (NeuroImage: Clinical. 2018;17:768-77.) [<a href="https://www.sciencedirect.com/science/article/pii/S2213158217303054">Link</a>]</span></p>
 </div>
 </div>
 <hr />
@@ -88,10 +87,9 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="3u 4u(large) 12u$(medium)">
 <div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="https://anaszain89.github.io/images/PP2.eps" alt="" width="180" /></span></div>
 </div>
-<div class="9u$ 8u$(large) 12u$(medium)">
-<span style="font-family: calibri, sans-serif; font-size: 12pt;">Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage</span>
+<div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Characterization of Phase Contrast CT images using features extracted from CNNs and also "hand-crafted" features</span></em></p>
-<p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, Deng B, DSouza AM, Nagarajan MB, Coan P, Wismüller A. (Computers in biology and medicine. 2018;95:24-33.) [<a href="https://www.sciencedirect.com/science/article/pii/S0010482518300167">Link</a>].</span></p>
+<p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, Deng B, DSouza AM, Nagarajan MB, Coan P, Wism&uuml;ller A. (Computers in biology and medicine. 2018;95:24-33.) [<a href="https://www.sciencedirect.com/science/article/pii/S0010482518300167">Link</a>].</span></p>
 </div>
 </div>
 <hr />
@@ -99,10 +97,9 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="3u 4u(large) 12u$(medium)">
 <div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="https://anaszain89.github.io/images/PP3.png" alt="" width="180" /></span></div>
 </div>
-<div class="9u$ 8u$(large) 12u$(medium)">
-<span style="font-family: calibri, sans-serif; font-size: 12pt;">Mutual connectivity analysis of resting-state functional MRI data with local models.</span>
+<div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Mutual connectivity analysis of resting-state functional MRI data with local models.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Novel perspective for studying fMRI time-series as a chaotic dynamical system</span></em></p>
-<p><span style="font-family: calibri, sans-serif; font-size: 12pt;">DSouza AM,&nbsp;<strong>Abidin AZ</strong>, Chockanathan U., Schifitto G., &amp; Wismüller A. (NeuroImage. 2018; 178:210-223.), [<a href="https://www.sciencedirect.com/science/article/pii/S1053811918304452">Link</a>]</span></p>
+<p><span style="font-family: calibri, sans-serif; font-size: 12pt;">DSouza AM,&nbsp;<strong>Abidin AZ</strong>, Chockanathan U., Schifitto G., &amp; Wism&uuml;ller A. (NeuroImage. 2018; 178:210-223.), [<a href="https://www.sciencedirect.com/science/article/pii/S1053811918304452">Link</a>]</span></p>
 </div>
 </div>
 <hr />
@@ -110,10 +107,9 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="3u 4u(large) 12u$(medium)">
 <div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="https://anaszain89.github.io/images/PP4.png" alt="" width="180" /></span></div>
 </div>
-<div class="9u$ 8u$(large) 12u$(medium)">
-<span style="font-family: calibri, sans-serif; font-size: 12pt;">Exploring connectivity with large-scale Granger causality on resting-state functional MRI.</span>
+<div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Exploring connectivity with large-scale Granger causality on resting-state functional MRI.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">A new and improved take on Granger Causality for large time-series systems</span></em></p>
-<p><span style="font-family: calibri, sans-serif; font-size: 12pt;">DSouza AM,&nbsp;<strong>Abidin AZ</strong>, Leistritz L, Wismüller A. (Journal of neuroscience methods. 2017;287:68-79.) [<a href="https://www.sciencedirect.com/science/article/pii/S0165027017301711">Link</a>].</span></p>
+<p><span style="font-family: calibri, sans-serif; font-size: 12pt;">DSouza AM,&nbsp;<strong>Abidin AZ</strong>, Leistritz L, Wism&uuml;ller A. (Journal of neuroscience methods. 2017;287:68-79.) [<a href="https://www.sciencedirect.com/science/article/pii/S0165027017301711">Link</a>].</span></p>
 </div>
 </div>
-  </hr>
+</div>
