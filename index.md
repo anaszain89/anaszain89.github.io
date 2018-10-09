@@ -34,7 +34,7 @@ title: Welcome to Anas' webpage
 **PhD candidate with comprehensive understanding of medical imaging, image / time-series analysis and machine learning**
 
 * * *
-
+<div id="Summary" name="Summary">  </div>
 # Brief Summary
 
 My _Ph.D. thesis_ project involves development of **novel mathematical models** for studying the **functional connectivity of the human brain**. The connectivity maps obtained are subsequently analyzed by applying and adapting **methods from graph theory and network science** to detect the presence of neurologic abnormalities and patterns of impaired connectivity in diseased subjects. The **design of an end-to-end framework for detection of neuro-degeneration in HIV+ individuals**, an erstwhile difficult to detect complication of HIV infection, is the core focus of my work.
@@ -46,6 +46,7 @@ Prior to my graduate studies at University of Rochester, I had worked at _Philip
 My experiences thus far have always given me the opportunity to work in highly interdisciplinary environments with close collaborations with engineers, mathematicians, neurologists, radiologists as well as skilled technicians. Hence, I have a good disposition towards teamwork, inter-personal communication and service provider-client relationships. 
 
 * * *
+<div id="Education" name="Education">  </div>
 ## Education <i class="fas fa-link"></i>
 <table class="table table-hover">
   <tr>
@@ -77,7 +78,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="image rounded"><img src="images/PP1.png" width="180" alt="" style="border:none;" /></div>
 
 ## Selected Publications <i class="fas fa-link"></i>
-
+<div id="Pubs" name="Pubs">  </div>
 <div class="container 75%"><hr />
 <div class="row 200%">
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span></strong>
