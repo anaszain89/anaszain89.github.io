@@ -3,7 +3,7 @@ layout: default
 
 title: Welcome to Anas' webpage
 ---
-
+<div id="Top" name="Top">  </div>
 <div class="container">
   <div align="center">
   <div class="row">
@@ -35,7 +35,7 @@ title: Welcome to Anas' webpage
 
 * * *
 <div id="Summary" name="Summary">  </div>
-# Brief Summary <a href="/"><i class="fas fa-link"></i></a>
+# Brief Summary <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 
 My _Ph.D. thesis_ project involves development of **novel mathematical models** for studying the **functional connectivity of the human brain**. The connectivity maps obtained are subsequently analyzed by applying and adapting **methods from graph theory and network science** to detect the presence of neurologic abnormalities and patterns of impaired connectivity in diseased subjects. The **design of an end-to-end framework for detection of neuro-degeneration in HIV+ individuals**, an erstwhile difficult to detect complication of HIV infection, is the core focus of my work.
 
@@ -47,7 +47,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 
 * * *
 <div id="Education" name="Education">  </div>
-## Education <a href="/"><i class="fas fa-link"></i></a>
+## Education <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <table class="table table-hover">
   <tr>
     <td class="col-md-3">Aug 2013 - December 2018 (expected)</td>
@@ -78,7 +78,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="image rounded"><img src="images/PP1.png" width="180" alt="" style="border:none;" /></div>
 
 <div id="Pubs" name="Pubs">  </div>
-## Selected Publications <a href="/"><i class="fas fa-link"></i></a>
+## Selected Publications <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <div class="container 75%"><hr />
 <div class="row 200%">
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span></strong>
@@ -119,3 +119,28 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>
 * * *
 #### For a full list please [download my CV](/data/AnasAbidin_CV.pdf)
+* * *
+
+<div id="Skills" name="Skills">  </div>
+## Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
+<table class="table table-hover">
+<tr>
+  <td class='col-md-2'>Languages</td>
+  <td markdown="1">
+Python, MATLAB, Shell-scripting, C, LabVIEW
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Python Frameworks</td>
+  <td markdown="1">
+NumPy, sci-kit, Pandas, PyTorch, TensorFlow
+  </td>
+</tr>
+<tr>
+  <td class='col-md-2'>Interests</td>
+  <td markdown="1">
+Machine Learning, Deep Learning, Image & Signal Processing, Statistical Analysis, Medical Imaging, Graph Theory
+  </td>
+</tr>
+</table>
+<hr>
