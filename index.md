@@ -88,7 +88,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><img src="images/PP2.png" width="180" alt="" style="border:none;" /></div>
+<div class="image rounded"><img src="images/PP2.eps" width="180" alt="" style="border:none;" /></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)">
 <h4>Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage </h4>
