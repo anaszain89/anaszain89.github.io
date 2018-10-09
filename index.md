@@ -44,7 +44,6 @@ Prior to my graduate studies at University of Rochester, I had worked at _Philip
 My experiences thus far have always given me the opportunity to work in highly interdisciplinary environments with close collaborations with engineers, mathematicians, neurologists, radiologists as well as skilled technicians. Hence, I have a good disposition towards teamwork, inter-personal communication and service provider-client relationships. 
 
 ## Education <i class="fas fa-link"></i>
-
 <table class="table table-hover">
   <tr>
     <td class="col-md-3">Aug 2013 - December 2018 (expected)</td>
@@ -71,6 +70,7 @@ My experiences thus far have always given me the opportunity to work in highly i
     </td>
   </tr>
   <br/>
+
 ## Selected Publications <i class="fas fa-link"></i>
 <div class="container 75%">
 			<hr />
