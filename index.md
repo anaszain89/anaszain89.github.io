@@ -112,7 +112,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP4.png" alt="" style="border-radius: 20px; margin: 10px; max-width: 30%;"/></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP4.png" alt="" width="300" style="border-radius: 20px; margin: 10px; max-width: 30%;"/></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Exploring connectivity with large-scale Granger causality on resting-state functional MRI.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">A new and improved take on Granger Causality for large time-series systems</span></em></p>
