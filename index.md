@@ -89,7 +89,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="https://anaszain89.github.io/images/PP2.eps" alt="" width="180" /></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="https://anaszain89.github.io/images/PP2.png" alt="" width="180" /></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Characterization of Phase Contrast CT images using features extracted from CNNs and also "hand-crafted" features</span></em></p>
