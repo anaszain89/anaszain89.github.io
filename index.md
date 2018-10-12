@@ -75,12 +75,15 @@ My experiences thus far have always given me the opportunity to work in highly i
   </tr>
   <br/>
 </table>
-<div class="image rounded"><img src="images/PP1.png" width="180" alt="" style="border:none;" /></div>
+
 
 <div id="Pubs" name="Pubs">  </div>
 ## Selected Publications <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <div class="container 75%"><hr />
+<div align="center">
 <div class="row 200%">
+<div class="3u 4u(large) 12u$(medium)">
+<div class="image rounded"><img src="images/PP1.png" width="180" alt="" style="border:none;" /></div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Proposing novel imaging derived biomarkers for disease</span></em></p>
 <p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, DSouza AM, Nagarajan MB, Qiu X, Schifitto G, Wism&uuml;ller A. (NeuroImage: Clinical. 2018;17:768-77.) [<a href="https://www.sciencedirect.com/science/article/pii/S2213158217303054">Link</a>]</span></p>
@@ -89,7 +92,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="https://anaszain89.github.io/images/PP2.png" alt="" width="180" /></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP2.png" alt="" width="180" /></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Characterization of Phase Contrast CT images using features extracted from CNNs and also "hand-crafted" features</span></em></p>
@@ -114,6 +117,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Exploring connectivity with large-scale Granger causality on resting-state functional MRI.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">A new and improved take on Granger Causality for large time-series systems</span></em></p>
 <p><span style="font-family: calibri, sans-serif; font-size: 12pt;">DSouza AM,&nbsp;<strong>Abidin AZ</strong>, Leistritz L, Wism&uuml;ller A. (Journal of neuroscience methods. 2017;287:68-79.) [<a href="https://www.sciencedirect.com/science/article/pii/S0165027017301711">Link</a>].</span></p>
+</div>
 </div>
 </div>
 </div>
