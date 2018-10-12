@@ -92,7 +92,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP2.png" alt="" width="300" style="border-radius: 20px; margin: 10px; max-width: 30%; /></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP2.png" alt="" width="300" style="border-radius: 20px; margin: 10px; max-width: 30%;" /></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Characterization of Phase Contrast CT images using features extracted from CNNs and also "hand-crafted" features</span></em></p>
@@ -102,7 +102,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP3.png" alt="" width="300" style="border-radius: 20px; margin: 10px; max-width: 30%;/></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP3.png" alt="" width="300" style="border-radius: 20px; margin: 10px; max-width: 30%;"/></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Mutual connectivity analysis of resting-state functional MRI data with local models.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Novel perspective for studying fMRI time-series as a chaotic dynamical system</span></em></p>
@@ -112,7 +112,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP4.png" alt="" width="300" style="border-radius: 20px; margin: 10px; max-width: 30%;/></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img src="/images/PP4.png" alt="" style="border-radius: 20px; margin: 10px; max-width: 30%;"/></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Exploring connectivity with large-scale Granger causality on resting-state functional MRI.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">A new and improved take on Granger Causality for large time-series systems</span></em></p>
