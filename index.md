@@ -121,10 +121,10 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>
 </div>
 </div>
-  
-* * *
+
+<hr />
 #### For a full list please [download my CV](/data/AnasAbidin_CV.pdf)
-* * *
+<hr />
 
 <div id="Skills" name="Skills">  </div>
 ## Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
