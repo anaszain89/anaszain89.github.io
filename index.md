@@ -120,30 +120,6 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>
 </div>
 </div>  
-<hr />  
-* * * #### For a full list please [download my CV](/data/AnasAbidin_CV.pdf) * * *
-<hr />
-<div id="Skills">&nbsp;</div>
-## Skills &amp; Interests
-<table class="table table-hover">
-<tbody>
-<tr>
-<td class="col-md-2">Languages</td>
-<td>Python, MATLAB, Shell-scripting, C, LabVIEW</td>
-</tr>
-<tr>
-<td class="col-md-2">Python Frameworks</td>
-<td>NumPy, sci-kit, Pandas, PyTorch, TensorFlow</td>
-</tr>
-<tr>
-<td class="col-md-2">Interests</td>
-<td>Machine Learning, Deep Learning, Image &amp; Signal Processing, Statistical Analysis, Medical Imaging, Graph Theory</td>
-</tr>
-</tbody>
-</table>
-<hr />
-
-
 #### For a full list please [download my CV](/data/AnasAbidin_CV.pdf)
 <hr />
 
