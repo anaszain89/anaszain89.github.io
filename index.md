@@ -75,9 +75,10 @@ My experiences thus far have always given me the opportunity to work in highly i
   </tr>
   <br/>
 </table>
+* * *
 <div id="Pubs">&nbsp;</div>
-<p>## Selected Publications</p>
-<div class="container 75%"><hr />
+## Selected Publications <a href="/index.html#Top"><i class="fas fa-link"></i></a>
+<div class="container 75%">
 <div align="center">
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
@@ -120,9 +121,8 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>
 </div>
 </div>  
-#### For a full list please [download my CV](/data/AnasAbidin_CV.pdf)
-<hr />
-
+#### For a full list please visit my [download my CV](/data/AnasAbidin_CV.pdf) or check my <a href="https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-1x"></i></a> page
+* * *
 <div id="Skills" name="Skills">  </div>
 ## Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <table class="table table-hover">
@@ -135,13 +135,13 @@ Python, MATLAB, Shell-scripting, C, LabVIEW
 <tr>
   <td class='col-md-2'>Python Frameworks</td>
   <td markdown="1">
-NumPy, sci-kit, Pandas, PyTorch, TensorFlow
+NumPy, scikit-learn, Pandas, PyTorch, TensorFlow
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Interests</td>
   <td markdown="1">
-Machine Learning, Deep Learning, Image & Signal Processing, Statistical Analysis, Medical Imaging, Graph Theory
+Machine Learning, Deep Learning, Image & Signal Processing, Medical Imaging, Statistical Modeling, Graph Theory
   </td>
 </tr>
 </table>
