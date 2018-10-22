@@ -16,36 +16,53 @@
     <![endif]-->
 
     <title> {{ page.title }} </title>
+
+    <style>
+    #navmenu ul{
+      display: inline-block;
+      list-style: none;
+/*      margin: 0px;
+    padding: 0px;*/
+    overflow: hidden;
+    background-color: #9ddcff;
+    }
+    #navmenu li{
+      float: left;
+    }
+    #navmenu li a {
+    /*display: block;*/
+    /*color: blue;*/
+    text-align: center;
+    padding: 16px;
+
+    }
+
+/*    #navmenu li a:hover {
+        background-color: #111111;
+    }*/
+    </style>
   </head>
 
   <body>
     <header>
-      <div class="inner">
-        <h1> {{ site.name }} </h1>
-        <h2>Anas Zainul Abidin's Homepage</h2>
-        <a href="http://github.com/anaszain89" class="button"><small>View my projects on</small> GitHub</a>
-        <br/>
-      </div>
+
+<div class="inner">
+      <div align="center">
+        <h2> Anas Zainul Abidin </h2>
+     <div id="navmenu"><ul><strong><span style="font-size: 15pt;">
+     <li><a href="/index.html#Summary">Summary</a></li>
+  <li><a href="/index.html#Education">Education</a></li>
+  <li><a href="/index.html#Pubs">Publications</a></li>
+  <li><a href="/index.html#Skills">Skills and Interests</a></li>
+  <li><a href="/about.html">More About Me</a></li>
+</span></strong>
+</ul></div>
+</div>
+
+
     </header>
     
-    <div align="center">   
-      <div style="padding: 1em; background-color:white; display: inline-block; border-radius: 4px; font-size: 1.2rem;">    
-          <a href="http://github.com/anaszain89" target="_blank"> 
-            <i class="fab fa-github-square fa-4x"></i></a>&nbsp&nbsp &nbsp &nbsp
-          
-          <a href="http://twitter.com/anaszain89" target="_blank">
-            <i class="fab fa-twitter-square fa-4x"></i></a>&nbsp&nbsp &nbsp &nbsp
-          
-          <a href="mailto:anas.abidin@rochester.edu" target="_blank">
-            <i class="fas fa-at fa-4x"></i></a>&nbsp&nbsp &nbsp &nbsp
-
-          <a href="https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en" target="_blank">
-            <i class="fas fa-graduation-cap fa-4x"></i></a>&nbsp&nbsp&nbsp &nbsp
-
-          <a href="http://www.linkedin.com/in/anaszain89" target="_blank">
-            <i class="fab fa-linkedin fa-4x"></i></a> &nbsp&nbsp&nbsp &nbsp 
-    </div>
-    </div>
+    
    
     <div id="content-wrapper">
       <div class="inner clearfix">
@@ -56,7 +73,8 @@
         </section>
 
         <aside id="sidebar">
-          {% include navigation.html %}
+          <div align="center">
+          {% include navigation2.html %}
           
           <a href="/data/AnasAbidin_Resume.pdf" class="button">
             <small>Download</small>
@@ -66,6 +84,9 @@
             <small>Download</small>
             my CV
           </a>
+        </div>
+
+        <!-- <a href="http://github.com/anaszain89" class="button2"><small>View my projects on</small> GitHub</a> -->
           
           <p>Also visit my <a href="https://www.urmc.rochester.edu/labs/wismueller-lab/">lab website</a>.</p>
           <p class="repo-owner"><a href="https://github.com/jasonlong/architect-theme">architect-theme</a> is maintained by <a href="https://github.com/jasonlong">jasonlong</a>.</p>

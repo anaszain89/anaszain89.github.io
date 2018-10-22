@@ -4,32 +4,6 @@ layout: default
 title: Welcome to Anas' webpage
 ---
 <div id="Top" name="Top">  </div>
-<div class="container">
-  <div align="center">
-  <div class="row">
-    <div class="col-md-6 col-md-offset-1 vcenter idxHdr">
-      <div class="col-md-2 vcenter idxHdr">
-      <a href="/images/photo_Anas.jpg">
-        <img src="/images/photo_Anas.jpg"
-             style="border-radius: 20px; margin: 10px; max-width: 30%;"
-             alt="Me."/>
-      </a>
-    </div>
-      <div style='font-size: 2em; color: #4582ec; font-weight: bold; padding-bottom: 0.3em;'>Anas Zainul Abidin</div>
-      <div style='font-size: 1.2em;'>
-        Ph.D. Candidate
-      </div>
-      <div style='font-size: 1.2em'>
-        <a href="http://www.hajim.rochester.edu/bme/">Biomedical Engineering</a>
-      </div>
-      <div style='font-size: 1.2em'>
-        <a href="http://rochester.edu/">University of Rochester</a>
-      </div>
-      <br/>
-    </div>
-  </div>
-  </div>
-  </div>
 
 **PhD candidate with comprehensive understanding of medical imaging, image / time-series analysis and machine learning**
 
@@ -47,7 +21,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 
 * * *
 <div id="Education" name="Education">  </div>
-## Education <a href="/index.html#Top"><i class="fas fa-link"></i></a>
+# Education <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <table class="table table-hover">
   <tr>
     <td class="col-md-3">Aug 2013 - December 2018 (expected)</td>
@@ -77,12 +51,12 @@ My experiences thus far have always given me the opportunity to work in highly i
 </table>
 * * *
 <div id="Pubs">&nbsp;</div>
-## Selected Publications <a href="/index.html#Top"><i class="fas fa-link"></i></a>
+# Selected Publications <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <div class="container 75%">
 <div align="center">
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><img style="border-radius: 20px; margin: 10px; max-width: 30%;" src="images/PP1.png" alt="" width="300" /></div>
+<div class="image rounded"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="images/PP1.png" alt="" width="300" /></div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Proposing novel imaging derived biomarkers for disease</span></em></p>
 <p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, DSouza AM, Nagarajan MB, Qiu X, Schifitto G, Wism&uuml;ller A. (NeuroImage: Clinical. 2018;17:768-77.) [<a href="https://www.sciencedirect.com/science/article/pii/S2213158217303054">Link</a>]</span></p>
@@ -91,7 +65,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img style="border-radius: 20px; margin: 10px; max-width: 30%;" src="/images/PP2.png" alt="" width="300" /></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="/images/PP2.png" alt="" width="300" /></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Deep transfer learning for characterizing chondrocyte patterns in phase contrast X-Ray computed tomography images of the human patellar cartilage</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Characterization of Phase Contrast CT images using features extracted from CNNs and also "hand-crafted" features</span></em></p>
@@ -101,7 +75,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img style="border-radius: 20px; margin: 10px; max-width: 30%;" src="/images/PP3.png" alt="" width="300" /></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="/images/PP3.png" alt="" width="300" /></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Mutual connectivity analysis of resting-state functional MRI data with local models.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Novel perspective for studying fMRI time-series as a chaotic dynamical system</span></em></p>
@@ -111,7 +85,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
-<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img style="border-radius: 20px; margin: 10px; max-width: 30%;" src="/images/PP4.png" alt="" /></span></div>
+<div class="image rounded"><span style="font-family: calibri, sans-serif; font-size: 12pt;"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="/images/PP4.png" alt="" /></span></div>
 </div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Exploring connectivity with large-scale Granger causality on resting-state functional MRI.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">A new and improved take on Granger Causality for large time-series systems</span></em></p>
@@ -121,10 +95,10 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>
 </div>
 </div>  
-#### For a full list please visit my [download my CV](/data/AnasAbidin_CV.pdf) or check my <a href="https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-1x"></i></a> page
+### For a full list please[download my CV](/data/AnasAbidin_CV.pdf) or check my <a href="https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-1x"></i></a> page
 * * *
 <div id="Skills" name="Skills">  </div>
-## Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
+# Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <table class="table table-hover">
 <tr>
   <td class='col-md-2'>Languages</td>
