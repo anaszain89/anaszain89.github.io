@@ -93,6 +93,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>  
 ### For a full list please [download my CV](/data/AnasAbidin_CV.pdf) or check my <a href="https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-1x"></i></a> page
 * * *
+
 <div id="Skills" name="Skills">  </div>
 # Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 
