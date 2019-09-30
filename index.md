@@ -23,7 +23,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 # Education <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 <table>
   <tr>
-    <td >Aug 2013 - April 2019 (expected)</td>
+    <td >Aug 2013 - April 2019</td>
     <td>
         <strong>Ph.D. in Biomedical Engineering</strong>
         <br>
