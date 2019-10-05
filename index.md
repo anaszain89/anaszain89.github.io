@@ -5,19 +5,41 @@ title: Welcome to Anas' webpage
 ---
 <div id="Top" name="Top">  </div>
 
-**I am currently part of the Solution Architecture and Engineering team at NVIDIA where I focus on Artificuial Intelligence & High Performance computing applications in Healthcare. I have a PhD in Biomedical Engineering with expertise in machine learning, computer vision techniques, image processing, and time-series analysis.** 
+**I am currently part of the Solution Architecture and Engineering team at NVIDIA where I focus on Artificial Intelligence & High Performance computing applications in Healthcare. I have a PhD in Biomedical Engineering with expertise in medical imaging, machine/deep learning, computer vision techniques, image and time-series analysis.** 
 
 * * *
 <div id="Summary" name="Summary">  </div>
 # Brief Summary <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 
-My current role at NVIDIA entails helping diverse R&D teams leverage the power of NVIDIA GPUs. I focus on enhancing the various aspects of pipelines that can making it easier for teams to bring AI into the clinics. More details on what [NVIDIA is upto in Healthcare](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/). 
+My current role at NVIDIA entails helping diverse R&D teams leverage the power of GPUs. My work focuses on enhancing the various aspects of pipelines (optimized training, improved inference, ehnaced deployment strategies) that can make it easier for teams to bring AI into the clinical practice. More details on what [NVIDIA is upto, especially in Healthcare](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/). 
 
 My _PhD thesis_ project involved development of a **novel software framework** for analysis of fMRI data of the human brain. Results from this work have been published in high-ranking journals such as **Neuroimage** and **Neuroimage: Clinical**, among others. I had additionally worked on **Computer Aided Diagnostics**, using methods for image characterization and predicting the presence/absence of disease.
 Prior to joining the PhD program I have worked for three years with **Philips Healthcare**, India, as a _Field Service Engineer for Imaging Systems_ (specialization in **MRI**). 
 
 My experiences thus far have always given me the opportunity to work in highly interdisciplinary environments with close collaborations with engineers, mathematicians, neurologists, radiologists as well as skilled technicians. I have a good disposition towards teamwork, inter-personal communication and service provider-client relationships. 
 
+* * *
+<div id="Work" name="Work">  </div>
+# Work Experience <a href="/index.html#Top"><i class="fas fa-link"></i></a>
+<table>
+  <tr>
+    <td >April 2019 - Current</td>
+    <td>
+        <strong>Solutions Architect - Healthcare and Life Sciences</strong>
+        <br>
+      NVIDIA
+    </td>
+  </tr>
+  <tr>
+    <td>September 2010 - May 2013</td>
+    <td>
+        <strong>Field Service Engineer - MRI</strong>
+        <br>
+      Philips - Healthcare
+    </td>
+  </tr>
+  <br/>
+</table>
 * * *
 <div id="Education" name="Education">  </div>
 # Education <a href="/index.html#Top"><i class="fas fa-link"></i></a>
