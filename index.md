@@ -50,7 +50,7 @@ My experiences thus far have always given me the opportunity to work in highly i
     <td>
         <strong>Ph.D. in Biomedical Engineering</strong>
         <br>
-      University of Rochester
+      University of Rochester, Rochester, NY
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ My experiences thus far have always given me the opportunity to work in highly i
     <td>
         <strong>M.S. in Biomedical Engineering</strong>
         <br>
-      University of Rochester
+      University of Rochester, Rochester, NY
     </td>
   </tr>
   <tr>
@@ -82,6 +82,15 @@ My experiences thus far have always given me the opportunity to work in highly i
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Alteration of brain network topology in HIV-associated neurocognitive disorder: A novel functional connectivity perspective.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Proposing novel imaging derived biomarkers for disease</span></em></p>
 <p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, DSouza AM, Nagarajan MB, Qiu X, Schifitto G, Wism&uuml;ller A. (NeuroImage: Clinical. 2018;17:768-77.) [<a href="https://www.sciencedirect.com/science/article/pii/S2213158217303054">Link</a>]</span></p>
+</div>
+</div>
+<hr />
+<div class="row 200%">
+<div class="3u 4u(large) 12u$(medium)">
+<div class="image rounded"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="images/PP5.png" alt="" width="300" /></div>
+<div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Detecting cognitive impairment in HIV-infected individuals using mutual connectivity analysis of resting state functional MRI.</span></strong>
+<p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Distinguishing subjects with and without cognitive impairment and localizing the effects of disease within the brain</span></em></p>
+<p><span style="font-family: calibri, sans-serif; font-size: 12pt;"><strong>Abidin AZ</strong>, DSouza AM, Schifitto G, Wism&uuml;ller A. (Journal of NeuroVirology. 2020;1-13.) [<a href="https://link.springer.com/article/10.1007/s13365-019-00823-1">Link</a>]</span></p>
 </div>
 </div>
 <hr />
@@ -116,7 +125,8 @@ My experiences thus far have always given me the opportunity to work in highly i
 </div>
 </div>
 </div>
-</div>  
+</div>
+</div>
 ### For a full list please [download my CV](/data/AnasAbidin_CV.pdf) or check my <a href="https://scholar.google.com/citations?user=C1IIlf4AAAAJ&hl=en" target="_blank"><i class="fas fa-graduation-cap fa-1x"></i></a> page
 * * *
 
