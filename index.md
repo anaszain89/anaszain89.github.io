@@ -134,7 +134,7 @@ My experiences thus far have always given me the opportunity to work in highly i
 # Skills & Interests <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 
 | Languages         | **Python (NumPy, scikit-learn, Pandas, [RAPIDS](https://developer.nvidia.com/rapids)), MATLAB**, Shell-scripting |
-| Python Frameworks | **PyTorch, TensorFlow**|
+| Deep Learning Frameworks | **PyTorch, TensorFlow**|
 | Interests         | **Machine Learning, Deep Learning, Image & Signal Processing, Medical Imaging, Statistical Modeling, Graph Theory**|
 
 <hr>
