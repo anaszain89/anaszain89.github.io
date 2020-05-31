@@ -1,15 +1,9 @@
 ---
 layout: default
 
-title: Welcome to Anas' webpage
+title: Updates
 ---
-<div id="Top" name="Top">  </div>
-
-**I am currently part of the Solution Architecture and Engineering team at NVIDIA where I focus on Artificial Intelligence & High Performance computing applications in Healthcare. I have a PhD in Biomedical Engineering with expertise in medical imaging, machine/deep learning, computer vision techniques, image and time-series analysis.**
-
-* * *
 <div id="Updates" name="Updates">  </div>
-# Updates <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 
 ## 2020
 
@@ -30,8 +24,6 @@ title: Welcome to Anas' webpage
 ### January
 
 - Paper titled *Detecting cognitive impairment in HIV-infected individuals using mutual connectivity analysis of resting state functional MRI* accepted for publication at Journal of NeuroVirology.
-
-* * * 
 
 ## 2019
 ### April 
