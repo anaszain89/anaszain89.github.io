@@ -19,7 +19,7 @@ title: Updates
 
 ### February
 
-- Presented webinar titled [*Inference Optimization with TensorRT and TRTIS*](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&ncid=so-link-56763&eventid=2189405&sessionid=1&key=F9BC888AC910EA98806C35516420608C&regTag=801536&sourcepage=register). Available on demand along as part of our continuing *Healthcare on Tap* series .
+- Presented webinar titled [*Inference Optimization with TensorRT and TRTIS*](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&ncid=so-link-56763&eventid=2189405&sessionid=1&key=F9BC888AC910EA98806C35516420608C&regTag=801536&sourcepage=register). Available on demand as part of our continuing *Healthcare on Tap* series .
 
 ### January
 
