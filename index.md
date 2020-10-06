@@ -13,6 +13,10 @@ title: Welcome to Anas' webpage
 
 ## 2020
 
+### August
+
+- Presented a follow-up webinar on Inference Optimization. Talk was titled [*Deeper Dive into TensorRT and TRITON*](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=devnws&eventid=2355478&sessionid=1&key=F89A7BE8742F98334CEDDA4E86A6D5F0&regTag=1055756&sourcepage=register). I demo the usage of these tools and how you can use them to integrate into your application(s). The codes/notebooks used are available [in this repo](https://github.com/NVIDIA/healthcare-on-tap-TRT-TRITON-demo).
+
 ### May
 
 - Worked on [Quickstart guide](https://aws.amazon.com/quickstart/architecture/nvidia-clara-train/) for Clara Train SDK in a Highly available and scalable configuration on AWS cloud. Try it out and get going with Clara! Work done in collaboration with the fantastic AWS team!
