@@ -21,6 +21,15 @@ title: Publications
 <hr />
 <div class="row 200%">
 <div class="3u 4u(large) 12u$(medium)">
+<div class="image rounded"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="images/PP6.png" alt="" width="300" /></div>
+<div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data.</span></strong>
+<p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">We introduce a novel method which facilitates conditional Granger causality between two multivariate time series conditioned on a large number of confounding time series with a small number of observations.</span></em></p>
+<p><span style="font-family: calibri, sans-serif; font-size: 12pt;"> Wism&uuml;ller A., DSouza AM, Vosoughi AM, <strong>Abidin AZ</strong> (Nature Scientific Reports. 2021;1-11.) [<a href="https://www.nature.com/articles/s41598-021-87316-6">Link</a>]</span></p>
+</div>
+</div>
+<hr />
+<div class="row 200%">
+<div class="3u 4u(large) 12u$(medium)">
 <div class="image rounded"><img style="border-radius: 20px; margin: 10px; max-width: 50%;" src="images/PP5.png" alt="" width="300" /></div>
 <div class="9u$ 8u$(large) 12u$(medium)"><strong><span style="font-family: calibri, sans-serif; font-size: 12pt;">Detecting cognitive impairment in HIV-infected individuals using mutual connectivity analysis of resting state functional MRI.</span></strong>
 <p><em><span style="font-family: calibri, sans-serif; font-size: 12pt;">Distinguishing subjects with and without cognitive impairment and localizing the effects of disease within the brain</span></em></p>

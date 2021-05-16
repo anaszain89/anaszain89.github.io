@@ -11,6 +11,12 @@ title: Welcome to Anas' webpage
 <div id="Updates" name="Updates">  </div>
 # Updates <a href="/index.html#Top"><i class="fas fa-link"></i></a>
 
+## 2021
+
+### April
+
+- Paper titled *Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data* accepted for publication at **Nature Scientific Reports**.
+
 ## 2020
 
 ### August
@@ -33,7 +39,7 @@ title: Welcome to Anas' webpage
 
 ### January
 
-- Paper titled *Detecting cognitive impairment in HIV-infected individuals using mutual connectivity analysis of resting state functional MRI* accepted for publication at Journal of NeuroVirology.
+- Paper titled *Detecting cognitive impairment in HIV-infected individuals using mutual connectivity analysis of resting state functional MRI* accepted for publication at **Journal of NeuroVirology**.
 
 * * * 
 
