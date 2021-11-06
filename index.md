@@ -5,7 +5,7 @@ title: Welcome to Anas' webpage
 ---
 <div id="Top" name="Top">  </div>
 
-**I am currently part of the Solution Architecture and Engineering team at NVIDIA where I focus on Artificial Intelligence & High Performance computing applications in Healthcare. I have a PhD in Biomedical Engineering with expertise in medical imaging, machine/deep learning, computer vision techniques, image and time-series analysis.**
+**I am currently part of the Solution Architecture and Engineering team at NVIDIA where I focus on Optimizing Deep Learning Training and Inference workflows within Healthcare. I have a PhD in Biomedical Engineering with expertise in medical imaging, machine/deep learning, computer vision techniques, image and time-series analysis.**
 
 * * *
 <div id="Updates" name="Updates">  </div>
@@ -13,9 +13,17 @@ title: Welcome to Anas' webpage
 
 ## 2021
 
+### October
+
+- Paper titled *Federated learning for predicting clinical outcomes in patients with COVID-19* published in [**Nature Medicine**](https://www.nature.com/articles/s41591-021-01506-3).
+
+## September
+
+- Paper titled *The Power of Proxy Data and Proxy Networks for Hyper-Parameter Optimization in Medical Image Segmentation* published & presented at [**MICCAI** conference](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_43).
+
 ### April
 
-- Paper titled *Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data* accepted for publication at **Nature Scientific Reports**.
+- Paper titled *Large-scale nonlinear Granger causality for inferring directed dependence from short multivariate time-series data* accepted for publication at [**Nature Scientific Reports**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=C1IIlf4AAAAJ&sortby=pubdate&citation_for_view=C1IIlf4AAAAJ:_Qo2XoVZTnwC).
 
 ## 2020
 
